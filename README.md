@@ -20,7 +20,11 @@ After investigation:
 - hall sensor switch I used AH277A from pc fan to ingage mosfet to have neutral pins without magnet in specific spot on the case of the battery. No drain off battery when on the shealf
 - arduino mini
 - oled 0.9
-- dc/dc power supply to power arduino from ~30v from main battery.
+- dc/dc power supply to power arduino 5v from ~30v from main battery.
 - rs485 to ttl module
+- some led's some resistors
 
-tbc...
+### overview v1.0
+check it out :P https://youtu.be/9iYzMpFoCac
+
+
